@@ -4,7 +4,7 @@
 В ходе выполнения задания выбирается [набор данных](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings?resource=download&select=timesData.csv), который будет использоваться в дальнейшем при исследовании алгоритмов кластеризации и классификации
 
 ## Задание
-1. Выбор исследуемого [датасета](https://www.kaggle.com/datasets/samybaladram/palmers-penguin-dataset-extended)]
+1. Выбор исследуемого [датасета](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings?resource=download&select=timesData.csv)
 2. Для каждого датасета представить краткое его описание в вашем Jupyter Notebook: 
   - предметная область, источник данных, характер данных (реальные или имитационные)
   - какие атрибуты представлены в датасете, их тип (числовой, строковый (категории)), что они обозначают есть ли описание задачи анализа, если есть - представить
